@@ -119,6 +119,7 @@ a{
     flex: auto;
     align-items: baseline;
     gap: 40px;
+    flex-wrap: wrap;
 }
 
 .fototekst{
