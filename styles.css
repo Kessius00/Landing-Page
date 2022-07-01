@@ -7,8 +7,9 @@ ul {
     list-style-type: none;
     align-items: center;
     margin: 0;
+    margin-right: 90px;
     padding: 0;
-    gap: 17px;
+    gap: 40px;
     
 }
 
@@ -33,6 +34,7 @@ ul {
 }
 
 .headerdown p{
+    margin-top:0;
     font-size: 22px;
     width: 450px
 
@@ -45,6 +47,10 @@ ul {
     margin-left: 100px;
     margin-right: 100px;
 
+}
+
+.headerdown h1 {
+    margin-bottom: 0;
 }
 
 .foto1{
@@ -68,7 +74,7 @@ img{
 
 a{
     text-decoration: none;
-    color: rgb(131, 131, 131);
+    color: rgb(202, 202, 202);
 }
 
 .header{
