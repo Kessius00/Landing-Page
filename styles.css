@@ -107,7 +107,10 @@ a{
     align-items:center;
     padding: 20px;
     gap: 40px;
-    margin-bottom: 80px;
+    padding-bottom: 80px;
+    background-image: url(https://c.neh.tw/thumb/f/720/5015778036285440.jpg);
+    background-attachment: fixed;
+    background-size:auto;
 
 }
 
@@ -127,12 +130,14 @@ a{
 
 .fototekst p{
     font-size: 17px;
-    color: gray;
+    color: rgb(212, 211, 169);
     width: 250px;
 }
 .upbody h2{
     margin-top: 40px 0;
+    color: rgb(246, 244, 121);
     font-size:40px;
+
 }
 
 
@@ -165,6 +170,8 @@ a{
     justify-content: center;
     align-items: center;
     height: 350px;
+    background-image: url(https://static01.nyt.com/images/2021/02/12/business/00japan-anime-1/00japan-anime-1-mobileMasterAt3x-v2.jpg);
+    background-attachment: fixed;
 }
 
 .blue{
@@ -189,7 +196,20 @@ a{
     font-weight: 400;
     height: 35px;
     width: 135px;
+    
 }
+
+.call button:hover{
+           border: 2px solid rgb(236, 236, 236);
+    font-size: 16px;
+    border-radius: 8px;
+    background-color: rgba(255, 136, 0, 0.265);
+    height: 35px;
+    font-weight: 400;
+    height: 35px;
+    width: 135px;
+        opacity: 0.6;
+    }
 
 .action{
     font-weight: 700;
