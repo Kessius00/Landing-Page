@@ -148,8 +148,8 @@ a{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 500px;
-    padding: 0 240px;
+    /* height: 500px; */
+    padding: 200px 240px;
 }
 
 .downbody p{
@@ -157,6 +157,7 @@ a{
     font-style: italic;
     font-weight: 100;
     margin: 0;
+    
 }
 
 .downbody div{
