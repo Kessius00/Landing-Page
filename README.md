@@ -1,6 +1,9 @@
 # Landing-Page
+This is an incredibly simple page
 
+<a href='https://kessius00.github.io/Landing-Page/'> Try it out! </a>
 
+## Credits
 Foto door Poyee Tsang: https://www.pexels.com/nl-nl/foto/bergen-reizen-bochtige-weg-bussen-12139617/
 
 Foto door Frank Cone: https://www.pexels.com/nl-nl/foto/hout-zee-zwart-en-wit-dageraad-12489555/
